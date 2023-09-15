@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+      <meta name="description" content="Personal Weather Station" />
+	<meta name="keywords" content=
+	  "Jonathan Hudson,Daria Hudson,Linux,Weather,1-wire,one wire,Dallas,Netley Marsh,Southampton" />
+	    <meta name="geo.position" content="50.9153; -1.53036" />
+	      <meta name="geo.placename" content="Netley Marsh" />
+		<meta name="geo.region" content="GB-STH" />
+		  <meta name="ICBM" content="50.9153, -1.53036" />
+		    <meta name="DC.title" content="Netley Marsh Weather" />
+	  <title>Netley Marsh 1 Wire Weather Station - Technical Information</title>
+	  <link rel="stylesheet" type="text/css" href="wxdefaults.css"/>
+  </head>
+  <body style="background: #ebffff; margin: 10px">
+    <h1>Jonathan &amp; Daria's Weather Station, Netley Marsh, Hampshire</h1>
+
+    <h2>Overview</h2>
+
+    <p>
+      This page describes the technical implementation of our weather
+      station. Current and logged weather data is viewable on the
+      <a href="index.html">weather station data page</a>.
+    </p>
+    <p> The <a href="index.html">weather station</a> started as a
+      requirement to be able the monitor the temperature in Daria's
+      greenhouse, which is about 20m from the house.  Commercial
+      wireless weather stations did not really met the requirement, as
+      they were either inflexible from a point of being able to add
+      additional sensors, or somewhat expensive for a flexible set up.
+    </p>
+    <p>
+      After a bit of research, we built a sensor network based on the
+      <a href="https://www.maximintegrated.com/"> Dallas Semiconductors one
+      wire system</a>. This allows us to add sensors as we
+      require. The 1 wire network runs on telephone cable, from a
+      computer in the sitting room (with interior temperature), along
+      the back of the house to a "repeater" (DS2409) box in the
+      garage, and then along the garden to the greenhouse, where there
+      are internal temperature and external soil temperature sensors,
+      as well as heated seed propagator temperatures in season. Rain
+      fall, humidity, pressuure and temperature sensors have been
+      attached to the north wall of the garage and in a wooden box on
+      a well shaded path at the side of house. The cabling runs in a fairly
+      disorganised star topology with a HobbyBoards DS2409 hub
+      providing stability and range
+      ( <a href="sensors.svg">[diagram]</a>).
+    </p>
+    <p> The garden is surrounded by trees, so we dispensed with the
+      anemometer, instead obtaining that data from the <a
+	href="http://www.sotonmet.co.uk/default.shtm">SotonMet</a>
+      <a href="http://www.sotonmet.co.uk/wap">WAP</a> feed.
+    </p>
+    <div class="rfigure" style="width: 220px;">
+      <p>
+	<a href="images/_slide_img_6064.jpeg">
+	  <img src="images/_thumb_img_6064.jpeg"  class="border0"
+	    alt=""
+	    title="Mini ITX box with blue USB adaptor for 1-Wire network"/>
+	</a>
+      </p>
+      <p>
+	Mini ITX box with blue USB adaptor for 1-Wire network
+      </p>
+    </div>
+    <p> The USB interface and initial sensors were acquired
+      from <a href="http://www.audon.co.uk/">Audon
+      Electronics</a>. Some additional DS18S20 (temperature-only)
+      sensors were acquired
+      from <a href="http://www.quasarelectronics.com/">Quasar
+      Electronics</a> and assembled from these
+      <a href="http://www.digitemp.com/building.shtml">instructions</a>. One
+      transistor sized chip, two wires. So simple. The coupler,
+      pressure (barometer), humidity and solar sensors came
+      from <a href="http://www.hobby-boards.com">Hobby Boards</a>.
+    </p>
+    <h2>Images</h2>
+    <p>
+      There are images of our setup in the <a href="images/">image
+	gallery</a>. Most of the images on this page link to larger
+	images when clicked.
+    </p>
+
+    <h2>Hardware and Software</h2>
+    <p>
+      The acquisition and logging system currently runs on an Intel
+      D525MW ITX based machine, with
+      <a href="http://www.archlinux.org/">ArchLinux</a> as the OS. Earlier
+      iterations ran on <a href="http://www.ubuntulinux.org/">Ubuntu
+      </a>, initially on an Epia MiniITX&nbsp; 600Mhz computer
+      (more than enough for w1retap), and more rcently, an MSI
+      Industrial Intel Atom (IM-945GSE-A) ITX board. w1retap will run
+      on 32 or 64 bit OS, on both big and little endian architectures.
+    </p>
+    The data aquistion software will run on small CPUs, including ARM,
+    and has been tested on
+    a <a href="http://www.raspberrypi.org/">Raspberry Pi</a>. It also
+    runs on RISCV64 boards such as the StarFive Vision Five 2.
+    <p>
+    </p>
+    <p>
+      The software, <b>w1retap</b>, is based on the
+      <a href="ftp://ftp.dalsemi.com/pub/auto_id/public/libusblinux300.tar.gz">
+	Dallas/Maxim public domain reference implementation</a>, and
+      is responsible for logging the sensor data.
+    </p>
+    <p> The 1-wire network is polled every 2 minutes for data, which
+      is logged to a <a href="http://www.postgresql.org/">postgresql</a>
+      SQL database. A set of
+      <a href="http://www.ruby-lang.org/">Ruby</a> scripts
+      periodically update this site and
+      feeds data to <a
+	href="http://www.wunderground.com/global/stations/03865.html">wunderground.com</a> (we're the Netley Marsh station).
+      There is also an GNOME applet (GNOME 2 and GNOME 3).
+    </p>
+    <div class="rfigure" style="width: 300px;">
+      <p>
+	<img src="images/applet1.png"  alt="" class="border0"
+	  title="GNOME applet"/>
+      </p>
+      <p>
+	"Just some random weather in Netley Marsh"
+      </p>
+    </div>
+
+    <p>
+      <b>w1retap</b> currently supports (at least) the following sensors:
+    </p>
+    <ul>
+      <li>TAI8520 (DS1820 / DS18S20) Temperature sensors;</li>
+      <li>TAI8540B (DS2438) Humidity Sensor;</li>
+      <li>TAI8570 Pressure Sensor;</li>
+      <li>TAI8575 Rain Gauge;</li>
+      <li>Hobby Boards Rain Gauge;</li>
+      <li>TAI8515 Weather Station (DS2423,DS18S20,DS2450);</li>
+      <li>DS2409 Microlan coupler;</li>
+      <li>DS2490 (DS9490R) USB adaptor;</li>
+      <li>DS2480 (DS9097U-S09) Serial adaptor;</li>
+      <li>LinkUSB Serial adaptor;</li>
+      <li> SHT11 based humidity sensor (<a
+      href="http://home.hetnet.nl/~thomas_7/1Wire/1-WireIOPort.html">details</a>);</li>
+      <li>MPX4115A based pressure sensor ('fronted' by DS2438, <a href="http://home.comcast.net/~andrew.g.miller/barometer/">details</a>);</li>
+      <li>MS-TH Humidity sensors (and temperature) based on DS2438 / Honeywell HiH400). This also supports the Hobby Boards Humidity / Temperature sensor;</li>
+      <li>The Hobby Boards Pressure sensor;</li>
+      <li>DS2760 High-Precision Li+ Battery Monitor (e.g. for Hobby
+      Boards Leaf Wetness sensor);</li>
+      <li>Hobby Boards Solar Radiation sensor;</li>
+      <li>Hobby Boards Ultra Violet (UV) sensor;</li>
+      <li>DS1921 (Thermocron) and DS1923 (Hygrochron).</li>
+    </ul>
+    <p>
+      <b>w1retap</b> logs sensors readings using one or more "plugin" modules, these
+      currently include:
+    </p>
+    <ul>
+      <li>Sqlite (version 3)</li>
+      <li>PostgreSQL</li>
+      <li>MySQL</li>
+      <li>ODBC</li>
+    </ul><ul>
+      <li>Text file</li>
+      <li>CSV file</li>
+      <li>XML file</li>
+    </ul>
+
+    <h2>Downloads</h2>
+    <p>
+      <a
+	href="https://codeberg.org/stronnag/w1retap">
+	<b>w1retap</b></a> (GPL)
+    </p>
+    <p>
+      <a href="w1retap.pdf">Read the fine manual</a>
+    </p>
+    <h2>Sensors</h2>
+    <p>
+      The 1-wire sensors (other than the temperature sensor
+	in <a href="images/7.html">Daria's greenhouse</a>), are housed
+	in a home made enclosure in a shady and covered passage.  The
+	rain guage shown is the old TAI8575 that had been modified (by
+	having a funnel located above its collector) to have a larger
+	collection area (to give 0.0105" of rain per bucket tip,
+	compared to 0.0204" in the original). This is now replaced by
+	the Hobby Board's offering.
+    </p>
+    <div class="bctable">
+      <div class="lfigure" style="width: 160px;">
+	<p>
+	  <a href="images/_slide_img_6096.jpeg">
+	    <img src="images/_thumb_img_6096.jpeg" alt="" class="border0"
+	      title="Humidity (and outside temperature) and pressure sensors in housing"/>
+	  </a>
+	</p>
+	<p>
+	  Humidity (and outside temperature) and pressure
+	  sensors in housing
+	</p>
+      </div>
+      <div class="lfigure" style="width: 160px;">
+	<p>
+	  <a href="images/_slide_img_6097.jpeg">
+	    <img src="images/_thumb_img_6097.jpeg" alt="" class="border0"
+	      title="Humidity (and outside temperature) and pressure sensors in housing"/>
+	  </a>
+	</p>
+	<p>
+	  Humidity (and outside temperature) and pressure
+	  sensors in housing
+	</p>
+      </div>
+      <div class="lfigure" style="width: 160px;">
+	<p>
+	  <a href="images/_slide_img_6095.jpeg">
+	    <img src="images/_thumb_img_6095.jpeg" alt="" class="border0"
+	      title="(old) RainSensor (and funnel) housed on end of garage"/>
+	  </a>
+	</p>
+	<p>
+	  (old) Rain sensor (and funnel)
+	</p>
+      </div>
+      <div class="lfigure" style="width: 160px;">
+	<p>
+	  <a href="images/_slide_img_6098.jpeg">
+	    <img src="images/_thumb_img_6098.jpeg" alt="" class="border0"
+	      title="RainSensor (and funnel) housed on end of garage"/>
+	  </a>
+	</p>
+	<p>
+	  (old) Rain sensor (and funnel)
+	</p>
+      </div>
+      <div class="lfigure" style="width: 160px;">
+	<p>
+	  <a href="images/_slide_img_6060.jpeg">
+	    <img src="images/_thumb_img_6060.jpeg" alt="" class="border0"
+	      title="Original rainfall sensor"/>
+	  </a>
+	</p>
+	<p>
+	  Unmodified (old) Rain sensor
+	</p>
+      </div>
+      <div class="lfigure" style="width: 160px;">
+	<p>
+	  <a href="images/lcd-weather.jpeg">
+	    <img src="images/_thumb_lcd-weather.jpeg" alt="" class="border0"
+	      title="Pertelian LCD Display"/>
+	  </a>
+	</p>
+	<p>
+	  Pertelian LCD Display
+	</p>
+      </div>
+      <div class="space-line">
+      </div>
+    </div>
+    <h2>Who?</h2>
+    <p>
+      This site is brought to you by
+      <a
+	href="&#x006d;&#x0061;&#x0069;&#x006c;&#x0074;&#x006f;&#x003a;&#x006a;&#x0068;&#x002b;&#x0077;&#x0031;&#x0072;&#x0065;&#x0074;&#x0061;&#x0070;&#x0040;&#x0064;&#x0061;&#x0072;&#x0069;&#x0061;&#x002e;&#x0063;&#x006f;&#x002e;&#x0075;&#x006b;">Jonathan Hudson</a> (who does the computer bits) and
+      <a
+	href="&#x006d;&#x0061;&#x0069;&#x006c;&#x0074;&#x006f;&#x003a;&#x0064;&#x0068;&#x002b;&#x0077;&#x0065;&#x0061;&#x0074;&#x0068;&#x0065;&#x0072;&#x0040;&#x0064;&#x0061;&#x0072;&#x0069;&#x0061;&#x002e;&#x0063;&#x006f;&#x002e;&#x0075;&#x006b;">Daria
+	Hudson</a>, who, as well as being much better looking, also does the gardening.
+    </p>
+  </body>
+</html>

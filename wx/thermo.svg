@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="40px" height="150px" viewBox="0 0 200 800" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="200" height="800" x="0" y="0" style="fill: #ffffeb; fill-opacity: 0;" />
+<rect width="96" height="680" x="58" y="2" rx="5" ry="5" style="fill: white; fill-opacity: 1; stroke: black; stroke-width: 4;" />
+<circle cx="100" cy="700" r="96" style="fill: pink; stroke: black; stroke-width: 4;" />
+<rect width="92" height="408.25" x="60" y="291.75" style="fill: pink; fill-opacity: 1; stroke-width: 0;" />
+<text x="71" y="598" style="font-family: sans-serif; font-size: 24pt;">-10</text>
+<text x="71" y="478" style="font-family: sans-serif; font-size: 24pt;">0</text>
+<text x="71" y="358" style="font-family: sans-serif; font-size: 24pt;">10</text>
+<text x="71" y="238" style="font-family: sans-serif; font-size: 24pt;">20</text>
+<text x="71" y="118" style="font-family: sans-serif; font-size: 24pt;">30</text>
+<g style="stroke: black;">
+<line x1="57" y1="600" x2="153" y2="600" style="stroke-width: 2;" />
+<line x1="96" y1="588" x2="114" y2="588" style="stroke-width: 1;" />
+<line x1="96" y1="576" x2="114" y2="576" style="stroke-width: 1;" />
+<line x1="96" y1="564" x2="114" y2="564" style="stroke-width: 1;" />
+<line x1="96" y1="552" x2="114" y2="552" style="stroke-width: 1;" />
+<line x1="82" y1="540" x2="128" y2="540" style="stroke-width: 1;" />
+<line x1="96" y1="528" x2="114" y2="528" style="stroke-width: 1;" />
+<line x1="96" y1="516" x2="114" y2="516" style="stroke-width: 1;" />
+<line x1="96" y1="504" x2="114" y2="504" style="stroke-width: 1;" />
+<line x1="96" y1="492" x2="114" y2="492" style="stroke-width: 1;" />
+<line x1="57" y1="480" x2="153" y2="480" style="stroke-width: 2;" />
+<line x1="96" y1="468" x2="114" y2="468" style="stroke-width: 1;" />
+<line x1="96" y1="456" x2="114" y2="456" style="stroke-width: 1;" />
+<line x1="96" y1="444" x2="114" y2="444" style="stroke-width: 1;" />
+<line x1="96" y1="432" x2="114" y2="432" style="stroke-width: 1;" />
+<line x1="82" y1="420" x2="128" y2="420" style="stroke-width: 1;" />
+<line x1="96" y1="408" x2="114" y2="408" style="stroke-width: 1;" />
+<line x1="96" y1="396" x2="114" y2="396" style="stroke-width: 1;" />
+<line x1="96" y1="384" x2="114" y2="384" style="stroke-width: 1;" />
+<line x1="96" y1="372" x2="114" y2="372" style="stroke-width: 1;" />
+<line x1="57" y1="360" x2="153" y2="360" style="stroke-width: 2;" />
+<line x1="96" y1="348" x2="114" y2="348" style="stroke-width: 1;" />
+<line x1="96" y1="336" x2="114" y2="336" style="stroke-width: 1;" />
+<line x1="96" y1="324" x2="114" y2="324" style="stroke-width: 1;" />
+<line x1="96" y1="312" x2="114" y2="312" style="stroke-width: 1;" />
+<line x1="82" y1="300" x2="128" y2="300" style="stroke-width: 1;" />
+<line x1="96" y1="288" x2="114" y2="288" style="stroke-width: 1;" />
+<line x1="96" y1="276" x2="114" y2="276" style="stroke-width: 1;" />
+<line x1="96" y1="264" x2="114" y2="264" style="stroke-width: 1;" />
+<line x1="96" y1="252" x2="114" y2="252" style="stroke-width: 1;" />
+<line x1="57" y1="240" x2="153" y2="240" style="stroke-width: 2;" />
+<line x1="96" y1="228" x2="114" y2="228" style="stroke-width: 1;" />
+<line x1="96" y1="216" x2="114" y2="216" style="stroke-width: 1;" />
+<line x1="96" y1="204" x2="114" y2="204" style="stroke-width: 1;" />
+<line x1="96" y1="192" x2="114" y2="192" style="stroke-width: 1;" />
+<line x1="82" y1="180" x2="128" y2="180" style="stroke-width: 1;" />
+<line x1="96" y1="168" x2="114" y2="168" style="stroke-width: 1;" />
+<line x1="96" y1="156" x2="114" y2="156" style="stroke-width: 1;" />
+<line x1="96" y1="144" x2="114" y2="144" style="stroke-width: 1;" />
+<line x1="96" y1="132" x2="114" y2="132" style="stroke-width: 1;" />
+<line x1="57" y1="120" x2="153" y2="120" style="stroke-width: 2;" />
+<line x1="96" y1="108" x2="114" y2="108" style="stroke-width: 1;" />
+<line x1="96" y1="96" x2="114" y2="96" style="stroke-width: 1;" />
+<line x1="96" y1="84" x2="114" y2="84" style="stroke-width: 1;" />
+<line x1="96" y1="72" x2="114" y2="72" style="stroke-width: 1;" />
+<line x1="82" y1="60" x2="128" y2="60" style="stroke-width: 1;" />
+<line x1="96" y1="48" x2="114" y2="48" style="stroke-width: 1;" />
+<line x1="96" y1="36" x2="114" y2="36" style="stroke-width: 1;" />
+<line x1="96" y1="24" x2="114" y2="24" style="stroke-width: 1;" />
+<line x1="96" y1="12" x2="114" y2="12" style="stroke-width: 1;" />
+<line x1="57" y1="0" x2="153" y2="0" style="stroke-width: 2;" />
+</g>
+
+</svg>
