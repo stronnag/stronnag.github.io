@@ -275,10 +275,10 @@
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 	<path stroke='black'  d='M251.39,74.26 L251.39,47.26 L384.14,47.26 L384.14,74.26 L251.39,74.26 Z  '/></g>
-	<g id="gnuplot_plot_1" ><title>Actual 1133mm</title>
+	<g id="gnuplot_plot_1" ><title>Actual 1136mm</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 	<g transform="translate(339.59,56.94)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
-		<text><tspan font-family="Droid Sans" >Actual 1133mm</tspan></text>
+		<text><tspan font-family="Droid Sans" >Actual 1136mm</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
@@ -331,9 +331,9 @@
 		<polygon  fill = 'url(#gpPat2)' points = '498.16,435.32 533.42,435.32 533.42,171.37 498.16,171.37 '/>
 	</g>
 	<path stroke='rgb(255,   0,   0)'  d='M498.16,435.32 L498.16,171.38 L533.41,171.38 L533.41,435.32 L498.16,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
-		<polygon  fill = 'url(#gpPat2)' points = '542.08,435.32 576.77,435.32 576.77,248.89 542.08,248.89 '/>
+		<polygon  fill = 'url(#gpPat2)' points = '542.08,435.32 576.77,435.32 576.77,243.35 542.08,243.35 '/>
 	</g>
-	<path stroke='rgb(255,   0,   0)'  d='M542.08,435.32 L542.08,248.90 L576.76,248.90 L576.76,435.32 L542.08,435.32 Z  '/></g>
+	<path stroke='rgb(255,   0,   0)'  d='M542.08,435.32 L542.08,243.36 L576.76,243.36 L576.76,435.32 L542.08,435.32 Z  '/></g>
 	</g>
 	<g id="gnuplot_plot_2"  fill="none"><title>gnuplot_plot_2</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
@@ -370,8 +370,8 @@
 	<g transform="translate(516.07,171.54)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
 		<text><tspan font-family="Droid Sans" >143</tspan></text>
 	</g>
-	<g transform="translate(559.42,249.06)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
-		<text><tspan font-family="Droid Sans" >101</tspan></text>
+	<g transform="translate(559.42,243.52)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Droid Sans" >104</tspan></text>
 	</g>
 </g>
 	</g>
