@@ -7,7 +7,7 @@
 >
 
 <title>Gnuplot</title>
-<desc>Produced by GNUPLOT 5.4 patchlevel 10 </desc>
+<desc>Produced by GNUPLOT 6.0 patchlevel 1 </desc>
 
 <g id="gnuplot_canvas">
 
@@ -59,12 +59,12 @@
 <g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M54.45,343.03 L581.09,343.03  '/></g>
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M54.45,394.69 L581.09,394.69  '/></g>
 <g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M54.45,343.03 L61.20,343.03 M581.09,343.03 L574.34,343.03  '/>	<g transform="translate(48.15,345.96)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
-		<text><tspan font-family="Droid Sans" > 50</tspan></text>
+	<path stroke='black'  d='M54.45,394.69 L61.20,394.69 M581.09,394.69 L574.34,394.69  '/>	<g transform="translate(48.15,397.62)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
+		<text><tspan font-family="Droid Sans" > 20</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
@@ -72,11 +72,50 @@
 <g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M54.45,250.74 L581.09,250.74  '/></g>
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M54.45,354.06 L581.09,354.06  '/></g>
 <g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M54.45,250.74 L61.20,250.74 M581.09,250.74 L574.34,250.74  '/>	<g transform="translate(48.15,253.67)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
+	<path stroke='black'  d='M54.45,354.06 L61.20,354.06 M581.09,354.06 L574.34,354.06  '/>	<g transform="translate(48.15,356.99)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
+		<text><tspan font-family="Droid Sans" > 40</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M54.45,313.43 L581.09,313.43  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M54.45,313.43 L61.20,313.43 M581.09,313.43 L574.34,313.43  '/>	<g transform="translate(48.15,316.36)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
+		<text><tspan font-family="Droid Sans" > 60</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M54.45,272.80 L581.09,272.80  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M54.45,272.80 L61.20,272.80 M581.09,272.80 L574.34,272.80  '/>	<g transform="translate(48.15,275.73)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
+		<text><tspan font-family="Droid Sans" > 80</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M54.45,232.18 L581.09,232.18  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M54.45,232.18 L61.20,232.18 M581.09,232.18 L574.34,232.18  '/>	<g transform="translate(48.15,235.11)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
 		<text><tspan font-family="Droid Sans" > 100</tspan></text>
 	</g>
 </g>
@@ -85,12 +124,12 @@
 <g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M54.45,158.45 L581.09,158.45  '/></g>
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M54.45,191.55 L581.09,191.55  '/></g>
 <g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M54.45,158.45 L61.20,158.45 M581.09,158.45 L574.34,158.45  '/>	<g transform="translate(48.15,161.38)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
-		<text><tspan font-family="Droid Sans" > 150</tspan></text>
+	<path stroke='black'  d='M54.45,191.55 L61.20,191.55 M581.09,191.55 L574.34,191.55  '/>	<g transform="translate(48.15,194.48)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
+		<text><tspan font-family="Droid Sans" > 120</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
@@ -98,12 +137,12 @@
 <g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M54.45,66.17 L251.39,66.17 M384.14,66.17 L581.09,66.17  '/></g>
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M54.45,150.92 L581.09,150.92  '/></g>
 <g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M54.45,66.17 L61.20,66.17 M581.09,66.17 L574.34,66.17  '/>	<g transform="translate(48.15,69.10)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
-		<text><tspan font-family="Droid Sans" > 200</tspan></text>
+	<path stroke='black'  d='M54.45,150.92 L61.20,150.92 M581.09,150.92 L574.34,150.92  '/>	<g transform="translate(48.15,153.85)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
+		<text><tspan font-family="Droid Sans" > 140</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
@@ -111,12 +150,12 @@
 <g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M76.84,435.32 L76.84,40.51  '/></g>
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M54.45,110.29 L581.09,110.29  '/></g>
 <g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M76.84,435.32 M76.84,40.51  '/>	<g transform="translate(74.77,443.69) rotate(45)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
-		<text><tspan font-family="Droid Sans" >2023-01</tspan></text>
+	<path stroke='black'  d='M54.45,110.29 L61.20,110.29 M581.09,110.29 L574.34,110.29  '/>	<g transform="translate(48.15,113.22)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
+		<text><tspan font-family="Droid Sans" > 160</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
@@ -124,12 +163,12 @@
 <g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M121.63,435.32 L121.63,40.51  '/></g>
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M54.45,69.66 L251.39,69.66 M384.14,69.66 L581.09,69.66  '/></g>
 <g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M121.63,435.32 M121.63,40.51  '/>	<g transform="translate(119.56,443.69) rotate(45)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
-		<text><tspan font-family="Droid Sans" >2023-02</tspan></text>
+	<path stroke='black'  d='M54.45,69.66 L61.20,69.66 M581.09,69.66 L574.34,69.66  '/>	<g transform="translate(48.15,72.59)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
+		<text><tspan font-family="Droid Sans" > 180</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
@@ -137,129 +176,155 @@
 <g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M162.09,435.32 L162.09,40.51  '/></g>
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M76.69,435.32 L76.69,40.51  '/></g>
 <g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M162.09,435.32 M162.09,40.51  '/>	<g transform="translate(160.02,443.69) rotate(45)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
-		<text><tspan font-family="Droid Sans" >2023-03</tspan></text>
-	</g>
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M206.88,435.32 L206.88,40.51  '/></g>
-<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M206.88,435.32 M206.88,40.51  '/>	<g transform="translate(204.81,443.69) rotate(45)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
-		<text><tspan font-family="Droid Sans" >2023-04</tspan></text>
-	</g>
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M250.22,435.32 L250.22,40.51  '/></g>
-<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M250.22,435.32 M250.22,40.51  '/>	<g transform="translate(248.15,443.69) rotate(45)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
-		<text><tspan font-family="Droid Sans" >2023-05</tspan></text>
-	</g>
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M295.01,435.32 L295.01,74.26 M295.01,47.26 L295.01,40.51  '/></g>
-<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M295.01,435.32 M295.01,40.51  '/>	<g transform="translate(292.94,443.69) rotate(45)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
-		<text><tspan font-family="Droid Sans" >2023-06</tspan></text>
-	</g>
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M338.36,435.32 L338.36,74.26 M338.36,47.26 L338.36,40.51  '/></g>
-<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M338.36,435.32 M338.36,40.51  '/>	<g transform="translate(336.29,443.69) rotate(45)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
-		<text><tspan font-family="Droid Sans" >2023-07</tspan></text>
-	</g>
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M383.15,435.32 L383.15,74.26 M383.15,47.26 L383.15,40.51  '/></g>
-<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M383.15,435.32 M383.15,40.51  '/>	<g transform="translate(381.08,443.69) rotate(45)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
-		<text><tspan font-family="Droid Sans" >2023-08</tspan></text>
-	</g>
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M427.94,435.32 L427.94,40.51  '/></g>
-<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M427.94,435.32 M427.94,40.51  '/>	<g transform="translate(425.87,443.69) rotate(45)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
-		<text><tspan font-family="Droid Sans" >2023-09</tspan></text>
-	</g>
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M471.28,435.32 L471.28,40.51  '/></g>
-<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M471.28,435.32 M471.28,40.51  '/>	<g transform="translate(469.21,443.69) rotate(45)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
-		<text><tspan font-family="Droid Sans" >2023-10</tspan></text>
-	</g>
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M516.07,435.32 L516.07,40.51  '/></g>
-<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M516.07,435.32 M516.07,40.51  '/>	<g transform="translate(514.00,443.69) rotate(45)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
-		<text><tspan font-family="Droid Sans" >2023-11</tspan></text>
-	</g>
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M559.42,435.32 L559.42,40.51  '/></g>
-<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M559.42,435.32 M559.42,40.51  '/>	<g transform="translate(557.35,443.69) rotate(45)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
+	<path stroke='black'  d='M76.69,435.32 M76.69,40.51  '/>	<g transform="translate(74.62,443.69) rotate(45.00)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
 		<text><tspan font-family="Droid Sans" >2023-12</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M121.18,435.32 L121.18,40.51  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M121.18,435.32 M121.18,40.51  '/>	<g transform="translate(119.11,443.69) rotate(45.00)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
+		<text><tspan font-family="Droid Sans" >2024-01</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M165.66,435.32 L165.66,40.51  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M165.66,435.32 M165.66,40.51  '/>	<g transform="translate(163.59,443.69) rotate(45.00)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
+		<text><tspan font-family="Droid Sans" >2024-02</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M207.28,435.32 L207.28,40.51  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M207.28,435.32 M207.28,40.51  '/>	<g transform="translate(205.21,443.69) rotate(45.00)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
+		<text><tspan font-family="Droid Sans" >2024-03</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M251.76,435.32 L251.76,74.26 M251.76,47.26 L251.76,40.51  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M251.76,435.32 M251.76,40.51  '/>	<g transform="translate(249.69,443.69) rotate(45.00)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
+		<text><tspan font-family="Droid Sans" >2024-04</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M294.81,435.32 L294.81,74.26 M294.81,47.26 L294.81,40.51  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M294.81,435.32 M294.81,40.51  '/>	<g transform="translate(292.74,443.69) rotate(45.00)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
+		<text><tspan font-family="Droid Sans" >2024-05</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M339.29,435.32 L339.29,74.26 M339.29,47.26 L339.29,40.51  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M339.29,435.32 M339.29,40.51  '/>	<g transform="translate(337.22,443.69) rotate(45.00)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
+		<text><tspan font-family="Droid Sans" >2024-06</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M382.34,435.32 L382.34,74.26 M382.34,47.26 L382.34,40.51  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M382.34,435.32 M382.34,40.51  '/>	<g transform="translate(380.27,443.69) rotate(45.00)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
+		<text><tspan font-family="Droid Sans" >2024-07</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M426.83,435.32 L426.83,40.51  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M426.83,435.32 M426.83,40.51  '/>	<g transform="translate(424.76,443.69) rotate(45.00)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
+		<text><tspan font-family="Droid Sans" >2024-08</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M471.31,435.32 L471.31,40.51  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M471.31,435.32 M471.31,40.51  '/>	<g transform="translate(469.24,443.69) rotate(45.00)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
+		<text><tspan font-family="Droid Sans" >2024-09</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M514.36,435.32 L514.36,40.51  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M514.36,435.32 M514.36,40.51  '/>	<g transform="translate(512.29,443.69) rotate(45.00)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
+		<text><tspan font-family="Droid Sans" >2024-10</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M558.85,435.32 L558.85,40.51  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M558.85,435.32 M558.85,40.51  '/>	<g transform="translate(556.78,443.69) rotate(45.00)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="start">
+		<text><tspan font-family="Droid Sans" >2024-11</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
@@ -267,18 +332,13 @@
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 	<path stroke='black'  d='M54.45,40.51 L54.45,435.32 L581.09,435.32 L581.09,40.51 L54.45,40.51 Z  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<g transform="translate(14.39,237.92) rotate(270)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
-		<text><tspan font-family="Droid Sans" >mm</tspan></text>
-	</g>
-</g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 	<path stroke='black'  d='M251.39,74.26 L251.39,47.26 L384.14,47.26 L384.14,74.26 L251.39,74.26 Z  '/></g>
-	<g id="gnuplot_plot_1" ><title>Actual 1141mm</title>
+	<g id="gnuplot_plot_1" ><title>Actual 1089mm</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 	<g transform="translate(339.59,56.94)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
-		<text><tspan font-family="Droid Sans" >Actual 1141mm</tspan></text>
+		<text><tspan font-family="Droid Sans" >Actual 1089mm</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
@@ -298,80 +358,77 @@
 		</pattern>
 	</defs>
 	<g stroke='none' shape-rendering='crispEdges'>
-		<polygon  fill = 'url(#gpPat2)' points = '58.93,435.32 94.77,435.32 94.77,208.28 58.93,208.28 '/>
+		<polygon  fill = 'url(#gpPat2)' points = '58.90,435.32 94.50,435.32 94.50,142.78 58.90,142.78 '/>
 	</g>
-	<path stroke='rgb(255,   0,   0)'  d='M58.93,435.32 L58.93,208.29 L94.76,208.29 L94.76,435.32 L58.93,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
-		<polygon  fill = 'url(#gpPat2)' points = '103.72,435.32 137.83,435.32 137.83,422.39 103.72,422.39 '/>
+	<path stroke='rgb(255,   0,   0)'  d='M58.90,435.32 L58.90,142.79 L94.49,142.79 L94.49,435.32 L58.90,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon  fill = 'url(#gpPat2)' points = '103.38,435.32 138.98,435.32 138.98,240.29 103.38,240.29 '/>
 	</g>
-	<path stroke='rgb(255,   0,   0)'  d='M103.72,435.32 L103.72,422.40 L137.82,422.40 L137.82,435.32 L103.72,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
-		<polygon  fill = 'url(#gpPat2)' points = '145.91,435.32 180.02,435.32 180.02,189.82 145.91,189.82 '/>
+	<path stroke='rgb(255,   0,   0)'  d='M103.38,435.32 L103.38,240.30 L138.97,240.30 L138.97,435.32 L103.38,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon  fill = 'url(#gpPat2)' points = '147.87,435.32 182.32,435.32 182.32,92.00 147.87,92.00 '/>
 	</g>
-	<path stroke='rgb(255,   0,   0)'  d='M145.91,435.32 L145.91,189.83 L180.01,189.83 L180.01,435.32 L145.91,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
-		<polygon  fill = 'url(#gpPat2)' points = '188.96,435.32 224.23,435.32 224.23,243.35 188.96,243.35 '/>
+	<path stroke='rgb(255,   0,   0)'  d='M147.87,435.32 L147.87,92.01 L182.31,92.01 L182.31,435.32 L147.87,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon  fill = 'url(#gpPat2)' points = '190.63,435.32 225.08,435.32 225.08,150.91 190.63,150.91 '/>
 	</g>
-	<path stroke='rgb(255,   0,   0)'  d='M188.96,435.32 L188.96,243.36 L224.22,243.36 L224.22,435.32 L188.96,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
-		<polygon  fill = 'url(#gpPat2)' points = '232.89,435.32 268.15,435.32 268.15,368.86 232.89,368.86 '/>
+	<path stroke='rgb(255,   0,   0)'  d='M190.63,435.32 L190.63,150.92 L225.07,150.92 L225.07,435.32 L190.63,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon  fill = 'url(#gpPat2)' points = '233.97,435.32 268.99,435.32 268.99,266.70 233.97,266.70 '/>
 	</g>
-	<path stroke='rgb(255,   0,   0)'  d='M232.89,435.32 L232.89,368.87 L268.14,368.87 L268.14,435.32 L232.89,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
-		<polygon  fill = 'url(#gpPat2)' points = '277.10,435.32 312.36,435.32 312.36,381.78 277.10,381.78 '/>
+	<path stroke='rgb(255,   0,   0)'  d='M233.97,435.32 L233.97,266.71 L268.98,266.71 L268.98,435.32 L233.97,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon  fill = 'url(#gpPat2)' points = '277.59,435.32 312.61,435.32 312.61,301.24 277.59,301.24 '/>
 	</g>
-	<path stroke='rgb(255,   0,   0)'  d='M277.10,435.32 L277.10,381.79 L312.35,381.79 L312.35,435.32 L277.10,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
-		<polygon  fill = 'url(#gpPat2)' points = '321.02,435.32 356.28,435.32 356.28,221.20 321.02,221.20 '/>
+	<path stroke='rgb(255,   0,   0)'  d='M277.59,435.32 L277.59,301.25 L312.60,301.25 L312.60,435.32 L277.59,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon  fill = 'url(#gpPat2)' points = '321.50,435.32 356.52,435.32 356.52,402.81 321.50,402.81 '/>
 	</g>
-	<path stroke='rgb(255,   0,   0)'  d='M321.02,435.32 L321.02,221.21 L356.27,221.21 L356.27,435.32 L321.02,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
-		<polygon  fill = 'url(#gpPat2)' points = '365.23,435.32 401.07,435.32 401.07,283.96 365.23,283.96 '/>
+	<path stroke='rgb(255,   0,   0)'  d='M321.50,435.32 L321.50,402.82 L356.51,402.82 L356.51,435.32 L321.50,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon  fill = 'url(#gpPat2)' points = '365.12,435.32 400.15,435.32 400.15,287.02 365.12,287.02 '/>
 	</g>
-	<path stroke='rgb(255,   0,   0)'  d='M365.23,435.32 L365.23,283.97 L401.06,283.97 L401.06,435.32 L365.23,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
-		<polygon  fill = 'url(#gpPat2)' points = '410.02,435.32 445.29,435.32 445.29,300.57 410.02,300.57 '/>
+	<path stroke='rgb(255,   0,   0)'  d='M365.12,435.32 L365.12,287.03 L400.14,287.03 L400.14,435.32 L365.12,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon  fill = 'url(#gpPat2)' points = '409.04,435.32 444.63,435.32 444.63,335.77 409.04,335.77 '/>
 	</g>
-	<path stroke='rgb(255,   0,   0)'  d='M410.02,435.32 L410.02,300.58 L445.28,300.58 L445.28,435.32 L410.02,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
-		<polygon  fill = 'url(#gpPat2)' points = '453.95,435.32 489.21,435.32 489.21,92.00 453.95,92.00 '/>
+	<path stroke='rgb(255,   0,   0)'  d='M409.04,435.32 L409.04,335.78 L444.62,335.78 L444.62,435.32 L409.04,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon  fill = 'url(#gpPat2)' points = '453.52,435.32 488.54,435.32 488.54,138.72 453.52,138.72 '/>
 	</g>
-	<path stroke='rgb(255,   0,   0)'  d='M453.95,435.32 L453.95,92.01 L489.20,92.01 L489.20,435.32 L453.95,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
-		<polygon  fill = 'url(#gpPat2)' points = '498.16,435.32 533.42,435.32 533.42,171.37 498.16,171.37 '/>
+	<path stroke='rgb(255,   0,   0)'  d='M453.52,435.32 L453.52,138.73 L488.53,138.73 L488.53,435.32 L453.52,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon  fill = 'url(#gpPat2)' points = '497.14,435.32 532.17,435.32 532.17,217.95 497.14,217.95 '/>
 	</g>
-	<path stroke='rgb(255,   0,   0)'  d='M498.16,435.32 L498.16,171.38 L533.41,171.38 L533.41,435.32 L498.16,435.32 Z  '/>	<g stroke='none' shape-rendering='crispEdges'>
-		<polygon  fill = 'url(#gpPat2)' points = '542.08,435.32 576.77,435.32 576.77,234.12 542.08,234.12 '/>
-	</g>
-	<path stroke='rgb(255,   0,   0)'  d='M542.08,435.32 L542.08,234.13 L576.76,234.13 L576.76,435.32 L542.08,435.32 Z  '/></g>
+	<path stroke='rgb(255,   0,   0)'  d='M497.14,435.32 L497.14,217.96 L532.16,217.96 L532.16,435.32 L497.14,435.32 Z  '/></g>
 	</g>
 	<g id="gnuplot_plot_2"  fill="none"><title>gnuplot_plot_2</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<g transform="translate(76.84,208.45)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
-		<text><tspan font-family="Droid Sans" >123</tspan></text>
+	<g transform="translate(76.69,142.68)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Droid Sans" >144</tspan></text>
 	</g>
-	<g transform="translate(121.63,422.56)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
-		<text><tspan font-family="Droid Sans" >7</tspan></text>
+	<g transform="translate(121.18,240.18)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Droid Sans" >96</tspan></text>
 	</g>
-	<g transform="translate(162.09,189.99)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
-		<text><tspan font-family="Droid Sans" >133</tspan></text>
+	<g transform="translate(165.66,91.89)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Droid Sans" >169</tspan></text>
 	</g>
-	<g transform="translate(206.88,243.52)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
-		<text><tspan font-family="Droid Sans" >104</tspan></text>
+	<g transform="translate(207.28,150.80)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Droid Sans" >140</tspan></text>
 	</g>
-	<g transform="translate(250.22,369.03)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
-		<text><tspan font-family="Droid Sans" >36</tspan></text>
+	<g transform="translate(251.76,266.59)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Droid Sans" >83</tspan></text>
 	</g>
-	<g transform="translate(295.01,381.95)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
-		<text><tspan font-family="Droid Sans" >29</tspan></text>
+	<g transform="translate(294.81,301.13)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Droid Sans" >66</tspan></text>
 	</g>
-	<g transform="translate(338.36,221.37)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
-		<text><tspan font-family="Droid Sans" >116</tspan></text>
+	<g transform="translate(339.29,402.70)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Droid Sans" >16</tspan></text>
 	</g>
-	<g transform="translate(383.15,284.13)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
-		<text><tspan font-family="Droid Sans" >82</tspan></text>
-	</g>
-	<g transform="translate(427.94,300.74)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
+	<g transform="translate(382.34,286.91)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
 		<text><tspan font-family="Droid Sans" >73</tspan></text>
 	</g>
-	<g transform="translate(471.28,92.17)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
-		<text><tspan font-family="Droid Sans" >186</tspan></text>
+	<g transform="translate(426.83,335.66)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Droid Sans" >49</tspan></text>
 	</g>
-	<g transform="translate(516.07,171.54)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
-		<text><tspan font-family="Droid Sans" >143</tspan></text>
+	<g transform="translate(471.31,138.61)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Droid Sans" >146</tspan></text>
 	</g>
-	<g transform="translate(559.42,234.29)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
-		<text><tspan font-family="Droid Sans" >109</tspan></text>
+	<g transform="translate(514.36,217.84)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Droid Sans" >107</tspan></text>
+	</g>
+	<g transform="translate(558.85,435.20)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Droid Sans" >0</tspan></text>
 	</g>
 </g>
 	</g>
@@ -384,15 +441,20 @@
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='rgb(  0, 255,   0)'  d='M345.89,67.51 L377.84,67.51 M76.84,271.05 L121.63,322.73 L162.09,313.50 L206.88,346.72 L250.22,331.96 L295.01,337.49
-		L338.36,359.64 L383.15,331.96 L427.94,313.50 L471.28,289.50 L516.07,280.28 L559.42,271.05  '/></g>
+	<path stroke='rgb(  0, 255,   0)'  d='M345.89,67.51 L377.84,67.51 M76.69,254.52 L121.18,254.52 L165.66,311.40 L207.28,301.25 L251.76,337.81 L294.81,321.56
+		L339.29,327.65 L382.34,352.03 L426.83,321.56 L471.31,301.25 L514.36,274.84 L558.85,264.68  '/></g>
 	</g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M54.45,40.51 L54.45,435.32 L581.09,435.32 L581.09,40.51 L54.45,40.51 Z  '/></g>
+	<path stroke='black'  d='M54.45,40.51 L54.45,435.32 L581.09,435.32 L581.09,40.51 L54.45,40.51 Z  '/>	<g transform="translate(14.39,237.92) rotate(270.00)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Droid Sans" >mm</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 	<g transform="translate(317.77,23.19)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
 		<text><tspan font-family="Droid Sans" >Annual Rainfall</tspan></text>
