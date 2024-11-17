@@ -169,13 +169,18 @@
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='black'  d='M215.80,164.00 L215.80,158.00  '/>	<g transform="translate(218.40,169.60) rotate(270.00)" stroke="none" fill="black" font-family="Sans" font-size="8.00"  text-anchor="end">
+	<path stroke='black'  d='M160.00,164.00 L160.00,158.00  '/>	<g transform="translate(162.60,169.60) rotate(270.00)" stroke="none" fill="black" font-family="Sans" font-size="8.00"  text-anchor="end">
 		<text><tspan font-family="Sans" >22:00</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='black'  d='M383.19,164.00 L383.19,158.00  '/>	<g transform="translate(385.79,169.60) rotate(270.00)" stroke="none" fill="black" font-family="Sans" font-size="8.00"  text-anchor="end">
+	<path stroke='black'  d='M271.59,164.00 L271.59,158.00  '/>	<g transform="translate(274.19,169.60) rotate(270.00)" stroke="none" fill="black" font-family="Sans" font-size="8.00"  text-anchor="end">
 		<text><tspan font-family="Sans" >23:00</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M383.19,164.00 L383.19,158.00  '/>	<g transform="translate(385.79,169.60) rotate(270.00)" stroke="none" fill="black" font-family="Sans" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Sans" >00:00</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
@@ -195,8 +200,8 @@
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='rgb(204, 178, 204)'  d='M343.59,24.01 L371.99,24.01 M146.05,52.12 L173.95,44.94 L201.85,45.36 L229.74,51.27 L243.69,48.74 L257.64,51.70
-		L285.54,50.85 L313.44,52.12 L341.34,47.90 L369.24,32.70  '/></g>
+	<path stroke='rgb(204, 178, 204)'  d='M343.59,24.01 L371.99,24.01 M113.50,52.12 L132.10,44.94 L150.70,45.36 L169.30,51.27 L178.60,48.74 L187.90,51.70
+		L206.50,50.85 L225.09,52.12 L243.69,47.90 L262.29,32.70 L280.89,39.87  '/></g>
 	</g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
