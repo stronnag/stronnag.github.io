@@ -207,7 +207,8 @@
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<path stroke='rgb(  0, 102, 204)'  d='M343.59,24.01 L371.99,24.01 M92.44,126.00 L106.62,145.00 L120.81,164.00 L134.99,164.00 L142.08,126.00 L149.17,126.00
 		L163.35,126.00 L177.54,69.01 L191.72,88.00 L205.90,126.00 L220.09,88.00 L234.27,145.00 L248.45,145.00 L262.64,145.00
-		L276.82,107.00 L291.00,107.00 L305.18,126.00 L319.37,107.00 L333.55,107.00 L347.73,50.01  '/></g>
+		L276.82,107.00 L291.00,107.00 L305.18,126.00 L319.37,107.00 L333.55,107.00 L347.73,50.01 L361.92,50.01 L376.10,69.01
+		 '/></g>
 	</g>
 	<g id="Windspeed_plot_2" ><title>Gust</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
@@ -218,7 +219,8 @@
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<path stroke='rgb(255,   0,   0)'  d='M343.59,36.01 L371.99,36.01 M92.44,69.01 L106.62,107.00 L120.81,107.00 L134.99,69.01 L142.08,88.00 L149.17,69.01
 		L163.35,88.00 L177.54,12.01 L191.72,12.01 L205.90,69.01 L220.09,31.01 L234.27,88.00 L248.45,107.00 L262.64,107.00
-		L276.82,107.00 L291.00,69.01 L305.18,88.00 L319.37,50.01 L333.55,31.01 L347.73,12.01  '/></g>
+		L276.82,107.00 L291.00,69.01 L305.18,88.00 L319.37,50.01 L333.55,31.01 L347.73,12.01 L361.92,31.01 L376.10,31.01
+		 '/></g>
 	</g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
