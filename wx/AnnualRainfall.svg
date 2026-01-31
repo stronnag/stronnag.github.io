@@ -124,11 +124,11 @@
 <g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M67.05,41.05 L581.09,41.05  '/></g>
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M67.05,41.06 L581.09,41.06  '/></g>
 <g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M67.05,41.05 L73.80,41.05 M581.09,41.05 L574.34,41.05  '/>	<g transform="translate(60.75,43.98)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
+	<path stroke='black'  d='M67.05,41.06 L73.80,41.06 M581.09,41.06 L574.34,41.06  '/>	<g transform="translate(60.75,43.99)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
 		<text><tspan font-family="Droid Sans" > 60000</tspan></text>
 	</g>
 </g>
@@ -296,10 +296,10 @@
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 	<path stroke='black'  d='M257.69,74.26 L257.69,47.26 L390.44,47.26 L390.44,74.26 L257.69,74.26 Z  '/></g>
-	<g id="gnuplot_plot_1" ><title>Actual 52879mm</title>
+	<g id="gnuplot_plot_1" ><title>Actual 52880mm</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 	<g transform="translate(345.89,56.94)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="end">
-		<text><tspan font-family="Droid Sans" >Actual 52879mm</tspan></text>
+		<text><tspan font-family="Droid Sans" >Actual 52880mm</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
@@ -392,7 +392,7 @@
 		<text><tspan font-family="Droid Sans" >140</tspan></text>
 	</g>
 	<g transform="translate(559.17,94.93)" stroke="none" fill="black" font-family="Droid Sans" font-size="9.00"  text-anchor="middle">
-		<text><tspan font-family="Droid Sans" >52246</tspan></text>
+		<text><tspan font-family="Droid Sans" >52247</tspan></text>
 	</g>
 </g>
 	</g>
